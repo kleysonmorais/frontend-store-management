@@ -1,3 +1,3 @@
 # frontend-store-management-
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-sxzmyk)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/frontend-store-management
